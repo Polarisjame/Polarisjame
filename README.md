@@ -3,6 +3,7 @@
 + 🌱 I’m currently learning NLP(RE、GNN)
 + 📫 How to reach me: 13058772184@163.com
 + 😄 Trying to publish a paper
++ :heart_eyes:Welcome ti my [Blog](https://polarisjame.github.io/)
 
 ### Profile Summary
 
