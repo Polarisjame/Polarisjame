@@ -1,7 +1,7 @@
 ### Hi there, I'm Polaris  👋
 
 + 🌱 Learning Logic Resynthesis
-+ 📫 How to reach me: 13058772184@163.com
++ 📫 How to reach me: polarislfz@163.com
 + :sleeping: Need more sleep
 + :heart_eyes:Welcome to my [Blog](https://polarisjame.github.io/)
 
